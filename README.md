@@ -52,7 +52,7 @@ A litle bit about myself :)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-#31A8FF.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>
 
