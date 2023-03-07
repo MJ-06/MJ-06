@@ -8,8 +8,6 @@
 <a target="_blank" href="https://leetcode.com/MJ-06/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 <a target="_blank" href="https://www.kaggle.com/miteshjindal06"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
 
-<!-- <img align="right" title="Adamay Mann" alt="Adamay Mann" width="400" src="./logos/animation.gif" /> -->
-
 <h3>
 A litle bit about myself :) 
 </h3>
@@ -63,9 +61,9 @@ A litle bit about myself :)
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-06&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 <br>
 <br>
-<!-- <img alt="Adamay's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=mannadamay12&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true"> -->
 </a>
 </p>
+
 <p align="center"><a href="https://github.com/MJ-06"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=MJ-06&show_icons=true&theme=radical" alt="MJ-06"></a></p>
 
 <p align="center">
