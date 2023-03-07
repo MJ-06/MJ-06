@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Mitesh Jindal</h1>
 <h3 align="center">An Undergrad student trying Computer Science</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mannadamay12" alt="mannadamay12"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mj-06" alt="MJ-06"/></p>
 
 <a target="_blank" href="https://www.linkedin.com/in/miteshjindal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:mitesh.jindal08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
