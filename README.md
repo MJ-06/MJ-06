@@ -1,7 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Mitesh Jindal</h1>
 <h3 align="center">An Undergrad student trying Computer Science</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mj-06" alt="MJ-06"/></p>
+[![](https://visitcount.itsvg.in/api?id=MJ-06&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://komarev.com/ghpvc/?username=mj-06" alt="MJ-06"/>
 
 <a target="_blank" href="https://www.linkedin.com/in/miteshjindal"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:mitesh.jindal08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -25,7 +27,6 @@ A litle bit about myself :)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -50,22 +51,27 @@ A litle bit about myself :)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<!-- ![Photoshop](https://img.shields.io/badge/AdobePhotoshop-#31A8FF.svg?style=for-the-badge&logo=notion&logoColor=white) -->
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br>
 
 ## Some Stats:
 <p align="center">
 <a href="https://github.com/MJ-06">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ-06&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-06&layout=compact&theme=omni&hide_border=true&hide_title=true" />
-<br>
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJ-06&theme=omni&include_all_commits=true&hide_title=true" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-06&layout=compact&theme=omni&hide_title=true" />
 <br>
 </a>
 </p>
 
 <p align="center"><a href="https://github.com/MJ-06"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=MJ-06&show_icons=true&theme=radical" alt="MJ-06"></a></p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
+
+--------------------------------------------------------------------------------------------------------------------------------
+
