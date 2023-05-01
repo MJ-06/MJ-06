@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, my name is Mitesh Jindal</h1>
 <h3 align="center">An Undergrad student trying Computer Science</h3>
 
-[![](https://visitcount.itsvg.in/api?id=MJ-06&icon=0&color=6)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=MJ-06&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
 <img src="https://komarev.com/ghpvc/?username=mj-06" alt="MJ-06"/>
 
